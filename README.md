@@ -1,4 +1,4 @@
-### Olá! Bem-vindo ao meu github! 👋
+### Olá! Eu sou o João Victor. Bem-vindo ao meu github! 👋
 <hr><img align="right" width="150" src="https://binarycomputers.org/wp-content/uploads/2023/02/giphy.gif"/>
 <div style="display: inline_block">
 💻 - Engenheiro civil trilhando o caminho da engenharia de dados <br>
@@ -25,6 +25,7 @@
   <a href="https://jupyter.org/" target="_blank"><img align="center" alt="Joao-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"></a>
   <a href="https://airflow.apache.org/" target="_blank"><img align="center" alt="Joao-Airflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"></a>
   <a href="https://cloud.google.com/" target="_blank"><img align="center" alt="Joao-GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Joao-GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"></a>
 </div>
 
 <!---
