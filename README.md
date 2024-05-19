@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! Bem-vindo ao meu github 👋
 
-<!--
-**joao-victorbr/joao-victorbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Engenheiro civil trilhando o caminho da engenharia de dados
 
-Here are some ideas to get you started:
+> Atualmente aprimorando meus conhecimentos em pipelines de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> Uso o Github para documentar estudos e projetos que tenho interesse
+
+<a href="mailto:joaovicb.rodrigues@gmai.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a> 
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/joao-victorbr/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-victorbr&hide_progress=true)
+
+<!---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-victorbr&show_icons=true&theme=transparent)
 -->
+
+
