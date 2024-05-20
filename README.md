@@ -28,6 +28,12 @@
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Joao-GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"></a>
 </div>
 
+ ## 
+### 🎓 Formação
+|Bootcamp Engenharia de Dados|Graduação em Engenharia Civil|
+|--|--|
+|[<img src="https://media.licdn.com/dms/image/D4D1BAQGQu62okpIb4w/company-background_10000/0/1654305595528/soulcodeacademy_cover?e=2147483647&v=beta&t=RIn5OkT0hS_GX5-O5_IQFdcNOC1KL-jkhXu_TElhI-8" width="300" height="100">](https://soulcode.com/curso-engenharia-de-dados)|[<img src="https://www.naval.com.br/blog/wp-content/uploads/2019/08/Escola_Polit%C3%A9cnica_da_UFRJ.gif" width="300" height="120">](http://www.civil.poli.ufrj.br/)|
+
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-victorbr&show_icons=true&theme=transparent)
 -->
