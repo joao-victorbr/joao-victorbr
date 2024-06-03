@@ -1,4 +1,4 @@
-### Olá! Eu sou o João Victor. Bem-vindo ao meu github! 👋
+### Olá! Eu me chamo João Victor. Bem-vindo ao meu github! 👋
 <hr><img align="right" width="150" src="https://binarycomputers.org/wp-content/uploads/2023/02/giphy.gif"/>
 <div style="display: inline_block"> <br>
 💻 - Engenheiro civil trilhando o caminho da engenharia de dados <br>
