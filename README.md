@@ -1,7 +1,6 @@
 ### Hello! My name is João Victor. Welcome to my github! 👋
 <hr><img align="right" width="150" src="https://binarycomputers.org/wp-content/uploads/2023/02/giphy.gif"/>
 <div style="display: inline_block"> <br>
-💻 - Civil engineer following the path of data engineering <br>
 📝 - Here I record studies and documentation of projects that I develop <br>
 👨‍💻 - Currently pursuing a postgraduate degree of Data Engineering
 </div>
